@@ -1,0 +1,50 @@
+[
+  {
+    "site": "canada",
+    "host": "www.canada.ca",
+    "region": "CA",
+    "lang": "en",
+    "org": {"en": "Government of Canada", "fr": "Gouvernement du Canada"},
+    "start": ["https://www.canada.ca/en/services.html"],
+    "include": "^/en/services(/|\\.html$)|^/en/[a-z0-9-]+/(services|programs)/",
+    "exclude": "/(news|corporate|publications|reports?|transparency|consultations?|reference-include)/",
+    "max_pages": 2000,
+    "max_depth": 4
+  },
+  {
+    "site": "ontario",
+    "host": "www.ontario.ca",
+    "region": "ON",
+    "lang": "en",
+    "org": {"en": "Government of Ontario", "fr": "Gouvernement de l’Ontario"},
+    "start": ["https://www.ontario.ca/page/government-ontario"],
+    "include": "^/page/",
+    "exclude": "/page/(newsroom|ontario-gazette)",
+    "max_pages": 500,
+    "max_depth": 3
+  },
+  {
+    "site": "quebec",
+    "host": "www.quebec.ca",
+    "region": "QC",
+    "lang": "en",
+    "org": {"en": "Gouvernement du Québec", "fr": "Gouvernement du Québec"},
+    "start": ["https://www.quebec.ca/en"],
+    "include": "^/en(/|$)",
+    "exclude": "/(news|premier|government/departments-agencies)(/|$)",
+    "max_pages": 500,
+    "max_depth": 3
+  },
+  {
+    "site": "bc",
+    "host": "www2.gov.bc.ca",
+    "region": "BC",
+    "lang": "en",
+    "org": {"en": "Government of British Columbia", "fr": "Gouvernement de la Colombie-Britannique"},
+    "start": ["https://www2.gov.bc.ca/gov/content/home"],
+    "include": "^/gov/content/",
+    "exclude": "/(governments/organizational-structure|news)/",
+    "max_pages": 500,
+    "max_depth": 3
+  }
+]

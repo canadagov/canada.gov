@@ -1,0 +1,6 @@
+# Not uploaded by `canner deploy`. Keys are set with `canner env set` instead.
+.env
+tests
+# The index is uploaded as one file; a crawl in progress keeps the rest here.
+index.sqlite-wal
+index.sqlite-shm

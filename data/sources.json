@@ -1,0 +1,340 @@
+[
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html",
+        "org": "IRCC",
+        "keywords": "passport passeport travel document voyage",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/passeports-canadiens.html",
+        "title_en": "Canadian passports and other travel documents: Applying in Canada",
+        "title_fr": "Passeports canadiens et autres documents de voyage : Présenter une demande au Canada"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html",
+        "org": "IRCC",
+        "keywords": "passport passeport renew renouveler renouvellement expired expire adult adulte",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/passeports-canadiens/renouvellement-passeport-adulte.html",
+        "title_en": "Renew a passport in Canada",
+        "title_fr": "Renouveler un passeport au Canada"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/child-passport.html",
+        "org": "IRCC",
+        "keywords": "passport passeport child enfant kid baby bebe minor mineur",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/passeports-canadiens/passeport-enfant.html",
+        "title_en": "How to apply for a child passport in Canada",
+        "title_fr": "Comment demander un passeport pour enfant au Canada"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/ei.html",
+        "org": "ESDC",
+        "keywords": "ei employment insurance unemployed unemployment laid off lost job assurance-emploi assurance emploi chomage licencie perdu",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/ae.html",
+        "title_en": "Employment Insurance benefits",
+        "title_fr": "Prestations de l’assurance-emploi"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/ei/ei-maternity-parental.html",
+        "org": "ESDC",
+        "keywords": "maternity parental leave baby pregnant newborn maternite conge parentales bebe enceinte naissance",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/ae/assurance-emploi-maternite-parentales.html",
+        "title_en": "EI maternity and parental benefits: What these benefits offer",
+        "title_fr": "Prestations de maternité et prestations parentales de l’assurance-emploi : Ce qu’offrent ces prestations"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/publicpensions/cpp.html",
+        "org": "ESDC",
+        "keywords": "cpp pension retirement retire rpc retraite regime pensions",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc.html",
+        "title_en": "Canada Pension Plan retirement pension",
+        "title_fr": "Pension de retraite du Régime de pensions du Canada"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html",
+        "org": "ESDC",
+        "keywords": "oas old age security senior seniors gis supplement 65 sv securite vieillesse aine aines",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/pensionspubliques/securite-vieillesse.html",
+        "title_en": "Old Age Security",
+        "title_fr": "Sécurité de vieillesse"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/employment-social-development/services/sin.html",
+        "org": "ESDC",
+        "keywords": "sin social insurance number card replace lost nas numero assurance sociale carte remplacer",
+        "url_fr": "https://www.canada.ca/fr/emploi-developpement-social/services/numero-assurance-sociale.html",
+        "title_en": "Social Insurance Number",
+        "title_fr": "Numéro d’assurance sociale"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/taxes/income-tax.html",
+        "org": "CRA",
+        "keywords": "tax taxes income return file filing refund deadline impot impots revenu declaration remboursement produire",
+        "url_fr": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu.html",
+        "title_en": "Income tax",
+        "title_fr": "Impôt sur le revenu"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html",
+        "org": "CRA",
+        "keywords": "cra account my account login sign in arc mon dossier connexion compte",
+        "url_fr": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc.html",
+        "title_en": "Sign in to your CRA account",
+        "title_fr": "Se connecter à son compte de l'ARC"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html",
+        "org": "CRA",
+        "keywords": "ccb canada child benefit children kids family payment ace allocation canadienne enfants famille",
+        "url_fr": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants.html",
+        "title_en": "Canada child benefit (CCB)",
+        "title_fr": "Allocation canadienne pour enfants (ACE)"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/change-your-address.html",
+        "org": "CRA",
+        "keywords": "change address moving move moved new address adresse changement demenagement demenager",
+        "url_fr": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/comment-changer-votre-adresse.html",
+        "title_en": "Update your personal information with the CRA – Change your address",
+        "title_fr": "Mettre à jour vos renseignements personnels auprès de l'ARC – Changer votre adresse"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/finder.html",
+        "org": "ESDC",
+        "keywords": "benefits finder eligible qualify help money support prestations admissible aide soutien",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/chercheur.html",
+        "title_en": "Benefits Finder",
+        "title_fr": "Chercheur de prestations"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/disability.html",
+        "org": "ESDC",
+        "keywords": "disability disabled benefit invalidite handicap handicapees prestation",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/handicap.html",
+        "title_en": "Disability benefits",
+        "title_fr": "Prestations d'invalidité"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/family.html",
+        "org": "ESDC",
+        "keywords": "family benefits children caregiving famille prestations familiales proche aidant",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/famille.html",
+        "title_en": "Family and caregiving benefits",
+        "title_fr": "Prestations pour les familles et les proches aidants"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html",
+        "org": "Health Canada",
+        "keywords": "dental dentist teeth cdcp dentaire dentiste soins rcsd",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires.html",
+        "title_en": "Canadian Dental Care Plan",
+        "title_fr": "Régime canadien de soins dentaires"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/benefits/education/student-aid.html",
+        "org": "ESDC",
+        "keywords": "student loan loans grant grants tuition university college etudiant pret prets bourse bourses etudes",
+        "url_fr": "https://www.canada.ca/fr/services/prestations/education/aide-etudiants.html",
+        "title_en": "Student aid",
+        "title_fr": "Aide financière aux études"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/employment-social-development/services/my-account.html",
+        "org": "ESDC",
+        "keywords": "my service canada account msca login mon dossier service canada mdsc",
+        "url_fr": "https://www.canada.ca/fr/emploi-developpement-social/services/mon-dossier.html",
+        "title_en": "My Service Canada Account (MSCA)",
+        "title_fr": "Mon dossier Service Canada (MDSC)"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/business/start.html",
+        "org": "ISED",
+        "keywords": "business start register company incorporate startup small entreprise demarrer enregistrer societe constituer",
+        "url_fr": "https://www.canada.ca/fr/services/entreprises/lancer.html",
+        "title_en": "Starting a business",
+        "title_fr": "Démarrage d'entreprise"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/register.html",
+        "org": "CRA",
+        "keywords": "business number bn register gst payroll numero entreprise ne inscription",
+        "url_fr": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/numero-entreprise-comptes-programme/comment-inscrire.html",
+        "title_en": "Business number and CRA program accounts",
+        "title_fr": "Numéro d'entreprise et comptes de programme de l'ARC"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/immigration-citizenship.html",
+        "org": "IRCC",
+        "keywords": "immigration immigrate visa refugee newcomer immigrer refugie nouvel arrivant",
+        "url_fr": "https://www.canada.ca/fr/services/immigration-citoyennete.html",
+        "title_en": "Immigration and citizenship",
+        "title_fr": "Immigration et citoyenneté"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html",
+        "org": "IRCC",
+        "keywords": "express entry skilled worker permanent residence crs entree express travailleur qualifie residence permanente",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/entree-express.html",
+        "title_en": "Express Entry",
+        "title_fr": "Entrée express"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship.html",
+        "org": "IRCC",
+        "keywords": "citizenship citizen test oath certificate citoyennete citoyen examen serment certificat",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/citoyennete-canadienne.html",
+        "title_en": "Canadian citizenship",
+        "title_fr": "Citoyenneté canadienne"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html",
+        "org": "IRCC",
+        "keywords": "study permit international student etudier permis etudes etudiant etranger",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/etudier-canada.html",
+        "title_en": "Study in Canada as an international student",
+        "title_fr": "Étudier au Canada à titre d’étudiant étranger"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html",
+        "org": "IRCC",
+        "keywords": "work permit foreign worker travailler permis travail etranger",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada.html",
+        "title_en": "Work in Canada temporarily",
+        "title_fr": "Travailler au Canada de façon temporaire"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html",
+        "org": "IRCC",
+        "keywords": "visit visitor visa eta tourist visiter visiteur ave touriste",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html",
+        "title_en": "Visit Canada",
+        "title_fr": "Visiter le Canada"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/pr-card.html",
+        "org": "IRCC",
+        "keywords": "pr card permanent resident carte rp resident permanent",
+        "url_fr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/residents-permanents.html",
+        "title_en": "Permanent resident cards and status",
+        "title_fr": "Carte et statut de résident permanent"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/jobs/opportunities/government.html",
+        "org": "PSC",
+        "keywords": "government jobs public service federal job gc jobs emplois gouvernement fonction publique",
+        "url_fr": "https://www.canada.ca/fr/services/emplois/opportunites/gouvernement.html",
+        "title_en": "Government of Canada jobs",
+        "title_fr": "Emplois au gouvernement du Canada"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/health.html",
+        "org": "Health Canada",
+        "keywords": "health sante vaccine vaccin recall food drug medication medicament",
+        "url_fr": "https://www.canada.ca/fr/services/sante.html",
+        "title_en": "Health",
+        "title_fr": "Santé"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/indigenous-peoples.html",
+        "org": "ISC",
+        "keywords": "indigenous first nations inuit metis status card autochtones premieres nations statut",
+        "url_fr": "https://www.canada.ca/fr/services/autochtones.html",
+        "title_en": "Indigenous Peoples",
+        "title_fr": "Autochtones"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/services/veterans-military.html",
+        "org": "VAC",
+        "keywords": "veteran veterans military service ancien combattant veterans militaire",
+        "url_fr": "https://www.canada.ca/fr/services/veterans-militaire.html",
+        "title_en": "Veterans and military",
+        "title_fr": "Vétérans et militaire"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/contact.html",
+        "org": "Service Canada",
+        "keywords": "contact phone call office service canada telephone appeler bureau",
+        "url_fr": "https://www.canada.ca/fr/contact.html",
+        "title_en": "Government of Canada contacts",
+        "title_fr": "Coordonnées du Gouvernement du Canada"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/government/dept.html",
+        "org": "Government of Canada",
+        "keywords": "department departments agency agencies ministere ministeres organisme organismes",
+        "url_fr": "https://www.canada.ca/fr/gouvernement/min.html",
+        "title_en": "Departments and agencies",
+        "title_fr": "Ministères et organismes"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html",
+        "org": "Provinces and territories",
+        "keywords": "province provincial territory driver drivers licence license health card birth certificate marriage married name change last name vehicle registration permis conduire carte sante acte naissance mariage changement nom immatriculation ontario quebec british columbia alberta manitoba saskatchewan nova scotia new brunswick newfoundland labrador pei yukon nunavut northwest",
+        "text_en": "Driver's licences, health cards, birth and marriage certificates, legal name changes and vehicle registration are handled by provinces and territories, not the federal government. Official portals: Ontario https://www.ontario.ca/ | Quebec https://www.quebec.ca/en | British Columbia https://www2.gov.bc.ca/ | Alberta https://www.alberta.ca/ | Saskatchewan https://www.saskatchewan.ca/ | Manitoba https://www.gov.mb.ca/ | New Brunswick https://www.gnb.ca/ | Nova Scotia https://novascotia.ca/ | Prince Edward Island https://www.princeedwardisland.ca/ | Newfoundland and Labrador https://www.gov.nl.ca/ | Yukon https://yukon.ca/ | Northwest Territories https://www.gov.nt.ca/ | Nunavut https://www.gov.nu.ca/",
+        "text_fr": "Les permis de conduire, les cartes santé, les actes de naissance et de mariage, les changements de nom légal et l'immatriculation des véhicules relèvent des provinces et des territoires, et non du gouvernement fédéral. Portails officiels : Ontario https://www.ontario.ca/fr | Québec https://www.quebec.ca/ | Colombie-Britannique https://www2.gov.bc.ca/ | Alberta https://www.alberta.ca/fr | Saskatchewan https://www.saskatchewan.ca/ | Manitoba https://www.gov.mb.ca/ | Nouveau-Brunswick https://www.gnb.ca/ | Nouvelle-Écosse https://novascotia.ca/ | Île-du-Prince-Édouard https://www.princeedwardisland.ca/fr | Terre-Neuve-et-Labrador https://www.gov.nl.ca/ | Yukon https://yukon.ca/fr | Territoires du Nord-Ouest https://www.gov.nt.ca/fr | Nunavut https://www.gov.nu.ca/fr",
+        "url_fr": "https://www.canada.ca/fr/affaires-intergouvernementales/services/provinces-territoires.html",
+        "title_en": "Provinces and territories",
+        "title_fr": "Provinces et territoires"
+    },
+    {
+        "url_en": "https://www.jobbank.gc.ca/home",
+        "url_fr": "https://www.guichetemplois.gc.ca/accueil",
+        "title_en": "Job Bank",
+        "title_fr": "Guichet-Emplois",
+        "org": "ESDC",
+        "keywords": "job jobs work find career resume hiring emploi emplois travail trouver carriere cv"
+    },
+    {
+        "url_en": "https://parks.canada.ca/voyage-travel/reserve",
+        "url_fr": "https://parcs.canada.ca/voyage-travel/reserve",
+        "title_en": "Parks Canada reservations",
+        "title_fr": "Réservations de Parcs Canada",
+        "org": "Parks Canada",
+        "keywords": "camp camping campsite campground park parks national reserve reservation book booking banff jasper parc parcs emplacement reserver"
+    },
+    {
+        "url_en": "https://www.veterans.gc.ca/en",
+        "url_fr": "https://www.veterans.gc.ca/fr",
+        "title_en": "Veterans Affairs Canada",
+        "title_fr": "Anciens Combattants Canada",
+        "org": "VAC",
+        "keywords": "veteran veterans care benefits disability ancien combattant anciens combattants soins"
+    },
+    {
+        "url_en": "https://www.canada.ca/en/department-national-defence/corporate/job-opportunities.html",
+        "org": "CAF",
+        "keywords": "military army navy air force join enlist recruit caf forces armed armee marine aviation enroler recrutement fac militaire",
+        "url_fr": "https://www.canada.ca/fr/ministere-defense-nationale/organisation/possibilites-demploi.html",
+        "title_en": "Job opportunities with National Defence and the Canadian Armed Forces",
+        "title_fr": "Possibilités d’emploi à la Défense nationale et dans les Forces armées canadiennes"
+    },
+    {
+        "url_en": "https://www.canadapost-postescanada.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page",
+        "url_fr": "https://www.canadapost-postescanada.ca/scp/fr/personnel/reacheminement-du-courrier.page",
+        "title_en": "Canada Post mail forwarding",
+        "title_fr": "Réacheminement du courrier de Postes Canada",
+        "org": "Canada Post",
+        "keywords": "mail forwarding forward canada post address moving courrier reacheminement postes adresse demenagement"
+    },
+    {
+        "url_en": "https://www.elections.ca/home.aspx",
+        "url_fr": "https://www.elections.ca/accueil.aspx",
+        "title_en": "Elections Canada",
+        "title_fr": "Élections Canada",
+        "org": "Elections Canada",
+        "keywords": "vote voting voter register election elections voter electeur inscription scrutin"
+    },
+    {
+        "url_en": "https://travel.gc.ca/",
+        "url_fr": "https://voyage.gc.ca/",
+        "title_en": "Travel advice and advisories",
+        "title_fr": "Conseils aux voyageurs et avertissements",
+        "org": "Global Affairs Canada",
+        "keywords": "travel abroad advisory advisories consular embassy voyage etranger avertissement ambassade consulaire"
+    },
+    {
+        "url_en": "https://weather.gc.ca/",
+        "url_fr": "https://meteo.gc.ca/",
+        "title_en": "Weather information",
+        "title_fr": "Information météo",
+        "org": "ECCC",
+        "keywords": "weather forecast alert storm meteo previsions alerte tempete"
+    }
+]
